@@ -1,0 +1,3 @@
+wget --no-check-certificate https://raw.githubusercontent.com/smithmuch/autoocserv/master/ocserv-auto.sh
+chmod +x ocserv-auto.sh
+./ocserv-auto.sh
